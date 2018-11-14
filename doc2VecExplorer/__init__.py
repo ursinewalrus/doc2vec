@@ -1,1 +1,2 @@
-import doc2VecExplorer.redisHandler
+import doc2VecExplorer.dataUtils
+import  doc2VecExplorer.doc2vecModelUtils
